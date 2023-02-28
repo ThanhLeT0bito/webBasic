@@ -1,0 +1,85 @@
+#main_login{
+    position: relative;
+    top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+#main_login .container_main{
+    width: 900px;
+    box-shadow: 0 0 2px 2px gray;
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+#main_login .container_main .header_main {
+    padding: 10px;
+    background-color: #009688;
+    margin-bottom: 20px;
+}
+
+#main_login .container_main .header_main h1{
+    color: white;
+    display: block;
+    text-align: center;
+}
+
+#main_login .container_main .content_main{
+    margin-left: 20px;
+}
+
+#main_login .container_main .content_main label{
+    display: block;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+#main_login .container_main .content_main input{
+    min-width: 800px;
+    height: 50px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    padding-left: 10px;
+}
+
+#main_login .container_main .content_main p {
+    display: block;
+    max-width: 800px;
+    text-align: center;
+    font-size: 25px;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid gray;
+    cursor: pointer;
+}
+#main_login .container_main .content_main p:hover{
+    background-color: rgb(184, 131, 15);
+    color: white;
+}
+#main_login .container_main .content_main p:hover .fab{
+    color: white;
+}
+
+#main_login .container_main .content_main button{
+    display: block;
+    margin: 5px auto;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(184, 131, 15);
+    color: white;
+}
+
+#main_login .container_main .content_main p i{
+    color: rgb(184, 131, 15);
+    font-size: 40px;
+    margin-right: 10px;
+}
+#main_login .container_main .content_main span{
+    display: block;
+    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+    color: gray;
+}
+#text{
+    color: brown;
+}

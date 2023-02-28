@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\W3_Band"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\DepWeb Newbie"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "DE-AN-WEB"
+	}
+}
